@@ -1,6 +1,6 @@
 const Header = () => {
   return (
-    <div class="navbar bg-base-100">
+    <div class="navbar bg-base-100 w-11/12 mx-auto py-2">
       <div class="navbar-start">
         <div class="dropdown">
           <label tabindex="0" class="btn btn-ghost lg:hidden">
@@ -42,7 +42,7 @@ const Header = () => {
             </li>
           </ul>
         </div>
-        <a class="btn btn-ghost normal-case text-xl">daisyUI</a>
+        <a class="btn btn-ghost normal-case text-xl">TEST</a>
       </div>
       <div class="navbar-center hidden lg:flex">
         <ul class="menu menu-horizontal px-1">
